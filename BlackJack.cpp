@@ -185,8 +185,8 @@ int main() {
     if(AskAgain()) {
         enum WinOrLose{cond1, cond2, cond3, cond4, cond5, cond6};
         comN = 0;   
-	        plaN = 0; 
-	        main();         
+	    plaN = 0; 
+	    main();         
 	}
  
     return 0;
